@@ -1,9 +1,493 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4715f418-4861-443a-bea6-0e5c14184008" name="Default" comment="" />
+    <list default="true" id="4715f418-4861-443a-bea6-0e5c14184008" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/test.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SIMYOU.TTF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addCate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addPro.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addUser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/doAdminAction.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/doLogin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editCate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editPro.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editUser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/getVerify.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/attach.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/delete.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/i.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/j.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/login_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/red_link.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/t.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/user_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/logo_index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/webLogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listCate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listPro.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listPro1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listProImages.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listUser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-1.6.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/animated-overlay.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/js/jquery-1.10.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/backstage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/global.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/07861083c2e8e7d9f63bb8e0edb7cd20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/0c14ca6ed080e92402c23d35af96556d.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/0c685612472ff1add958ba3048633025.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/1881bb9f44bd1bbad25a9085b1aaa3d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/407865ba90f0df80822f6a1900f4c7d1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/40c194c5adf567527071d675b48baeb9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/49659aecbb2aa7e99cd59cac8ea2a8a5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/49e5fbfbfbb74fe237988c18f8c37585.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/511736465de28bc9d6fc730238d53c34.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/5677a769720af6854e18e3c6d91f5bf3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/5b7930a28c1bbf9fca0463bcea1f1b56.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/5e7852468c96b4cb0763e5f47991f351.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/6fe87551772f79fb88ed1ca16b77d2c3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/7148d9fb2125ae1d117bc48e917b6d13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/75a9f473e7b087dcc25770d8f58d0370.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/78e21378d2a43de2cf4a0dacfb0de6a1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/7ec55f75f39e03ee8546a3ec1ab43f83.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/9a77eb963b97a8c20163f656f6e52c7b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/9b9143ba02c8d432fae6276dd33bd499.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ab9808c175b70c9ccbb16305584c6110.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ad643c1df5effa36c559c8548d55f3ee.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/bf4dddfbbd8fe3c5b87c2453a983ce5e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/c1c9c2607fbc4b9ccf3a73d07f953680.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/c32cd29977b460f8bcbb45b8286de347.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/d70ad5fc301a19c0ddf8d6e82d3e24e7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/d8afc7db49cf96357c5dd587d12336d8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/d8b335e57c1a754c92e0d971cb6016c7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ed50987c9544d26772f56b36de636acf.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ee5d87a7d6a3bd0eb4febd39485d5987.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/f2b60ce8bb961e5f171e23d03ba8dd87.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/f6339c7b3eec18dd2526ff26008bd56b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/f8d506bb6488955e77ad661caf049374.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/configs/configs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/admin.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/album.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/cate.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/pro.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/user.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/data/imooc.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/doAction.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_sm_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_sm_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/des_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/des_sm2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/aLink_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/buy_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/collection.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/des_input_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/des_title.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/des_title_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/down.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/hg_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/hot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/i.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/icon_cart_prompt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/j.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/login_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/plus_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/red_link.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/shaoIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/shopIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/shop_sj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/sj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/sj_blue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/sj_grey.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/t.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/user_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/xing.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/logo_index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/pad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/reg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/sh_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/shopImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/shopping_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/step.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/userhead.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/webLogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/include.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/index1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/js/DD_belatedPNG_0.0.8a-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/js/ie6Fixpng.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/js/说明.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/common.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/image.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/mysql.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/page.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/string.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/upload.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor-all-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/zh_CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/zh_TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/JSON.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/demo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/file_manager_json.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/upload_json.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/anchor/anchor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/autoheight/autoheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/baidumap/baidumap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/baidumap/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/baidumap/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/clearhtml/clearhtml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/code/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/code/prettify.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/code/prettify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/emoticons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/100.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/101.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/102.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/103.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/104.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/105.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/106.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/107.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/108.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/109.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/110.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/111.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/112.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/113.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/114.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/115.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/116.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/117.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/118.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/119.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/120.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/121.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/122.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/123.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/124.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/125.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/126.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/127.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/128.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/129.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/130.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/131.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/132.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/133.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/134.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/72.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/73.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/74.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/76.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/77.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/78.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/79.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/80.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/81.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/82.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/83.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/84.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/85.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/86.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/87.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/88.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/89.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/90.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/91.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/92.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/93.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/94.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/95.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/96.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/97.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/98.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/99.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/static.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/filemanager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/go-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/flash/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/align_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/align_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/align_top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/insertfile/insertfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/lineheight/lineheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/link/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/map/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/media/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/swfupload.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/multiimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/pagebreak/pagebreak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/plainpaste/plainpaste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/preview/preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/quickformat/quickformat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/table/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/html/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/html/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/html/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/wordpaste/wordpaste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/media.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/rm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/default/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/default/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/default/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/qq/editor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/qq/qq.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/simple/simple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/proDetail1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/proDetails.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/reg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/scripts/jquery-1.6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/scripts/jquery.jqzoom-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/styles/jquery.jqzoom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/styles/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_220/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_350/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_50/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_800/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/resizeImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/resizeImage1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/resizeImage2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/0cfa5343838ca730c0f662be0d255c77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/392c141993263e9d4afcc5bf46bd1370.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/3a6d6e5f0f5401f057428d0a68cebd84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/4e5409c36994a93f4eefb60f55e8d155.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/5a9e0ce59df2a56dbb99d0b4df34c515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/6bef92d1538819851a78c6e1108fc3aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/6e52aa76dd94f1af4fa51a32b44eccd9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/805763ee13699341b66a4c484643f955.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/8536217a3073eca51b9440e7ff857055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/9aacfebdd46397b4ad3e3b24fb987e4b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/b226b253bed7b816fa401c0215071c92.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/b383d40135e5d23930acf13a5290009a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/b4a8bc9b7057a5877e1fcc882653df9e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/d43d79a8deb349ff38aa7c79d59a2efe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/ec75f2668884ed4dfafbb40da5868ad4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_220/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_350/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_50/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_800/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/waterPic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/waterText.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/45306f3e9e4674362731545a86b2261e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/af423aeab90796e3c1cd994b6c464e09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/c794aed26d04790517233c1d2c99c4d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/ce92c236763184aa42abf575df39b9d1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_sm_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_sm_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/des_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/des_sm2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/aLink_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/buy_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/collection.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/des_input_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/des_title.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/des_title_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/down.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/hg_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/hot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/icon_cart_prompt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/login_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/plus_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/red_link.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/shaoIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/shopIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/shop_sj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/sj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/sj_blue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/sj_grey.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/user_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/xing.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/pad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/sh_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/shopImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/shopping_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/step.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/userhead.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/webLogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/js/DD_belatedPNG_0.0.8a-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/js/ie6Fixpng.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/js/说明.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/style/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/style/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/产品分类.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/商品介绍.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/注册.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/登陆.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/购物车.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/i.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/j.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/t.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/logo_index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/style/backstage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/电商后台需求分析文档/data1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/电商后台需求分析文档/慕课网-电子商务系统数据词典.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/电商后台需求分析文档/慕课网-电子商务系统需求分析.doc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/eCommence.iml" afterPath="$PROJECT_DIR$/.idea/eCommence.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="eCommence.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,21 +499,96 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="MySQL - @localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="eCommence" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="shopImooc.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="33" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.imooc_admin" pinned="false" current-in-tab="true">
+        <entry file="dbDummy://dbtable:/c0532324/0bf361a1-9865-4a86-b7a9-a0f1d985ab27/test.imooc_admin">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shop/data/shop.sql" />
+        <option value="$PROJECT_DIR$/shop/data/shopImooc.sql" />
+        <option value="$PROJECT_DIR$/shop/test.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP">
+    <include_path>
+      <path value="E:\xampp" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="785" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -38,7 +597,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -56,6 +615,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Extensions" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.intellij" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyPsiNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -64,16 +641,75 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eCommence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eCommence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eCommence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eCommence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/xampp/php/php.ini" />
+    <property name="settings.editor.selected.configurable" value="database.sql.templating" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="4715f418-4861-443a-bea6-0e5c14184008" name="Default" comment="" />
@@ -84,27 +720,36 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="785" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23603794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16227607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34245077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32286024" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -112,5 +757,167 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shop/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/素材和成品/shopImooc/data/imooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/素材和成品/shopImooc/data/imooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.018538713">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0bf361a1-9865-4a86-b7a9-a0f1d985ab27/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
