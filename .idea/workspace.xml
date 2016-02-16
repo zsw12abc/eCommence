@@ -2,488 +2,711 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4715f418-4861-443a-bea6-0e5c14184008" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/test.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/SIMYOU.TTF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addAdmin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addCate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addPro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/addUser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/doAdminAction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/doLogin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editAdmin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editCate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editPro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/editUser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/getVerify.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/attach.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/j.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/login_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/n.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/red_link.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/t.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/icon/user_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/logo_index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/images/webLogo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listAdmin.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listCate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listPro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listPro1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listProImages.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/listUser.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-1.6.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/animated-overlay.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/js/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/backstage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/global.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/styles/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/07861083c2e8e7d9f63bb8e0edb7cd20.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/0c14ca6ed080e92402c23d35af96556d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/0c685612472ff1add958ba3048633025.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/1881bb9f44bd1bbad25a9085b1aaa3d5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/407865ba90f0df80822f6a1900f4c7d1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/40c194c5adf567527071d675b48baeb9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/49659aecbb2aa7e99cd59cac8ea2a8a5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/49e5fbfbfbb74fe237988c18f8c37585.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/511736465de28bc9d6fc730238d53c34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/5677a769720af6854e18e3c6d91f5bf3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/5b7930a28c1bbf9fca0463bcea1f1b56.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/5e7852468c96b4cb0763e5f47991f351.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/6fe87551772f79fb88ed1ca16b77d2c3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/7148d9fb2125ae1d117bc48e917b6d13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/75a9f473e7b087dcc25770d8f58d0370.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/78e21378d2a43de2cf4a0dacfb0de6a1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/7ec55f75f39e03ee8546a3ec1ab43f83.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/9a77eb963b97a8c20163f656f6e52c7b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/9b9143ba02c8d432fae6276dd33bd499.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ab9808c175b70c9ccbb16305584c6110.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ad643c1df5effa36c559c8548d55f3ee.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/bf4dddfbbd8fe3c5b87c2453a983ce5e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/c1c9c2607fbc4b9ccf3a73d07f953680.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/c32cd29977b460f8bcbb45b8286de347.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/d70ad5fc301a19c0ddf8d6e82d3e24e7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/d8afc7db49cf96357c5dd587d12336d8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/d8b335e57c1a754c92e0d971cb6016c7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ed50987c9544d26772f56b36de636acf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/ee5d87a7d6a3bd0eb4febd39485d5987.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/f2b60ce8bb961e5f171e23d03ba8dd87.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/f6339c7b3eec18dd2526ff26008bd56b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/admin/uploads/f8d506bb6488955e77ad661caf049374.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/configs/configs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/admin.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/album.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/cate.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/pro.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/core/user.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/data/imooc.sql" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/doAction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/ad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_sm_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/banner/banner_sm_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/des_sm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/des_sm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/aLink_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/buy_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/car.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/collection.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/des_input_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/des_title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/des_title_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/down.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/hg_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/hot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/icon_cart_prompt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/j.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/login_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/n.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/plus_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/red_link.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/shaoIcon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/shopIcon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/shop_sj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/sj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/sj_blue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/sj_grey.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/t.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/user_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/icon/xing.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/logo_index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/pad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/reg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/sh_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/shopImg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/shopping_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/step.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/userhead.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/images/webLogo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/include.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/index1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/js/DD_belatedPNG_0.0.8a-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/js/ie6Fixpng.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/js/说明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/common.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/image.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/mysql.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/page.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/string.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/lib/upload.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor-all-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor-all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/kindeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/lang/zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/JSON.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/demo.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/file_manager_json.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/php/upload_json.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/anchor/anchor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/autoheight/autoheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/baidumap/baidumap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/baidumap/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/baidumap/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/clearhtml/clearhtml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/code/code.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/code/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/code/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/emoticons.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/0.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/10.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/100.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/101.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/102.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/103.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/104.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/105.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/106.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/107.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/108.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/109.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/11.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/110.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/111.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/112.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/113.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/114.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/115.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/116.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/117.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/118.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/119.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/12.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/120.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/121.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/122.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/123.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/124.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/125.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/126.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/127.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/128.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/129.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/13.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/130.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/131.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/132.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/133.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/134.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/14.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/15.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/17.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/18.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/19.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/20.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/21.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/22.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/23.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/24.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/25.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/26.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/27.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/28.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/29.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/30.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/31.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/33.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/34.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/35.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/36.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/37.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/38.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/39.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/4.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/40.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/41.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/42.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/43.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/44.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/45.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/46.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/47.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/48.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/49.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/5.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/50.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/51.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/52.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/53.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/54.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/55.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/56.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/57.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/58.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/59.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/6.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/60.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/61.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/62.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/63.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/65.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/66.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/67.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/68.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/69.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/7.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/70.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/71.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/72.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/73.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/74.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/75.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/76.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/77.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/78.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/79.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/8.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/80.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/81.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/82.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/83.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/84.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/85.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/86.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/87.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/88.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/89.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/9.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/90.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/91.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/92.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/93.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/94.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/95.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/96.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/97.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/98.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/99.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/emoticons/images/static.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/filemanager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-16.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-64.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/filemanager/images/go-up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/flash/flash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/align_left.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/align_right.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/align_top.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/image/images/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/insertfile/insertfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/lineheight/lineheight.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/link/link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/map/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/map/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/media/media.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/images/swfupload.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/multiimage/multiimage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/pagebreak/pagebreak.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/plainpaste/plainpaste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/preview/preview.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/quickformat/quickformat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/table/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/html/1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/html/2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/html/3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/template/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/plugins/wordpaste/wordpaste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/flash.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/media.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/common/rm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/default/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/default/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/default/default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/qq/editor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/qq/qq.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/plugins/kindeditor/themes/simple/simple.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/proDetail1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/proDetails.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/reg.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/scripts/jquery-1.6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/scripts/jquery.jqzoom-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/styles/jquery.jqzoom.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/styles/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/doAction3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_220/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_350/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_50/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/image_800/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/resizeImage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/resizeImage1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/resizeImage2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload.func.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/upload2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/0cfa5343838ca730c0f662be0d255c77.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/392c141993263e9d4afcc5bf46bd1370.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/3a6d6e5f0f5401f057428d0a68cebd84.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/4e5409c36994a93f4eefb60f55e8d155.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/5a9e0ce59df2a56dbb99d0b4df34c515.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/6bef92d1538819851a78c6e1108fc3aa.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/6e52aa76dd94f1af4fa51a32b44eccd9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/805763ee13699341b66a4c484643f955.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/8536217a3073eca51b9440e7ff857055.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/9aacfebdd46397b4ad3e3b24fb987e4b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/b226b253bed7b816fa401c0215071c92.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/b383d40135e5d23930acf13a5290009a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/b4a8bc9b7057a5877e1fcc882653df9e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/d43d79a8deb349ff38aa7c79d59a2efe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/ec75f2668884ed4dfafbb40da5868ad4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_220/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_350/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_50/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/uploads/image_800/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/waterPic.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/test/waterText.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/45306f3e9e4674362731545a86b2261e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/af423aeab90796e3c1cd994b6c464e09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/c794aed26d04790517233c1d2c99c4d5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopImooc/uploads/ce92c236763184aa42abf575df39b9d1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/ad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_sm_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/banner/banner_sm_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/des_big.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/des_sm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/des_sm2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/aLink_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/buy_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/car.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/collection.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/des_input_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/des_title.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/des_title_icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/down.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/hg_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/hot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/icon_cart_prompt.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/login_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/plus_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/red_link.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/shaoIcon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/shopIcon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/shop_sj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/sj.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/sj_blue.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/sj_grey.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/user_icon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/icon/xing.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/pad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/sh_btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/shopImg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/shopping_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/step.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/userhead.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/images/webLogo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/js/DD_belatedPNG_0.0.8a-min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/js/ie6Fixpng.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/js/说明.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/style/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/style/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/产品分类.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/商品介绍.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/注册.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/登陆.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前台/购物车.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/e.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/j.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/n.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/icon/t.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/img/logo_index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/后台/style/backstage.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/电商后台需求分析文档/data1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/电商后台需求分析文档/慕课网-电子商务系统数据词典.docx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/电商后台需求分析文档/慕课网-电子商务系统需求分析.doc" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/eCommence.iml" afterPath="$PROJECT_DIR$/.idea/eCommence.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/static.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/filemanager/images/go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/image/images/align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/image/images/align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/image/images/align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/image/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/multiimage/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/multiimage/images/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/common/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/common/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/common/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/common/media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/common/rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/default/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/default/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/qq/editor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/image_220/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/image_350/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/image_50/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/image_800/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/0cfa5343838ca730c0f662be0d255c77.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/392c141993263e9d4afcc5bf46bd1370.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/3a6d6e5f0f5401f057428d0a68cebd84.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/4e5409c36994a93f4eefb60f55e8d155.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/5a9e0ce59df2a56dbb99d0b4df34c515.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/6bef92d1538819851a78c6e1108fc3aa.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/6e52aa76dd94f1af4fa51a32b44eccd9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/805763ee13699341b66a4c484643f955.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/8536217a3073eca51b9440e7ff857055.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/9aacfebdd46397b4ad3e3b24fb987e4b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/b226b253bed7b816fa401c0215071c92.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/b383d40135e5d23930acf13a5290009a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/b4a8bc9b7057a5877e1fcc882653df9e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/d43d79a8deb349ff38aa7c79d59a2efe.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/ec75f2668884ed4dfafbb40da5868ad4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/image_220/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/image_350/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/image_50/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/uploads/image_800/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/uploads/45306f3e9e4674362731545a86b2261e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/uploads/af423aeab90796e3c1cd994b6c464e09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/uploads/c794aed26d04790517233c1d2c99c4d5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/uploads/ce92c236763184aa42abf575df39b9d1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/banner/banner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/banner/banner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/banner/banner_sm_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/banner/banner_sm_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/des_big.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/des_sm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/des_sm2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/aLink_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/buy_btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/car.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/collection.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/des_input_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/des_title.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/des_title_icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/down.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/hg_icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/hot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/icon_cart_prompt.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/login_btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/plus_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/red_link.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/shaoIcon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/shopIcon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/shop_sj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/sj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/sj_blue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/sj_grey.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/user_icon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/icon/xing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/pad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/sh_btn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/shopImg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/shopping_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/step.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/userhead.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/images/webLogo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/img/icon/e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/img/icon/i.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/img/icon/j.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/img/icon/n.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/img/icon/t.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/img/logo_index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/电商后台需求分析文档/data1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/电商后台需求分析文档/慕课网-电子商务系统数据词典.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/电商后台需求分析文档/慕课网-电子商务系统需求分析.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/lib/common.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/lib/image.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/lib/mysql.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/lib/page.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/lib/string.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shop/lib/upload.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/filemanager/filemanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/flash/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/insertfile/insertfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/lineheight/lineheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/link/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/media/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/multiimage/multiimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/pagebreak/pagebreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/plainpaste/plainpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/preview/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/quickformat/quickformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/table/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/template/html/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/template/html/2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/template/html/3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/wordpaste/wordpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/qq/qq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/themes/simple/simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/proDetail1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/proDetails.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/reg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/scripts/jquery-1.6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/scripts/jquery.jqzoom-core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/styles/jquery.jqzoom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/styles/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/doAction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/doAction1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/doAction2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/doAction3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/resizeImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/resizeImage1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/resizeImage2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/upload.func.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/upload1.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/upload2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/waterPic.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/shopImooc/test/waterText.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/js/DD_belatedPNG_0.0.8a-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/js/ie6Fixpng.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/js/说明.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/style/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/style/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/产品分类.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/商品介绍.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/注册.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/登陆.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/前台/购物车.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template/后台/style/backstage.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/72.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/73.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/74.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/75.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/76.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/77.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/78.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/79.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/80.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/81.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/82.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/83.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/84.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/85.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/86.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/87.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/88.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/89.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/90.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/91.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/92.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/93.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/94.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/95.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/96.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/97.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/98.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/99.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/static.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/filemanager/filemanager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/filemanager/images/file-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/filemanager/images/folder-64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/filemanager/images/go-up.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/flash/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/image/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/image/images/align_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/image/images/align_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/image/images/align_top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/image/images/refresh.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/insertfile/insertfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/lineheight/lineheight.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/link/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/map/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/map/map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/media/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/multiimage/images/image.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-en.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/multiimage/images/select-files-zh_CN.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/multiimage/images/swfupload.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/multiimage/multiimage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/pagebreak/pagebreak.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/plainpaste/plainpaste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/preview/preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/quickformat/quickformat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/table/table.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/template/html/1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/template/html/2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/template/html/3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/template/template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/wordpaste/wordpaste.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/common/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/common/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/common/flash.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/common/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/common/media.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/common/rm.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/default/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/default/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/default/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/qq/editor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/qq/qq.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/themes/simple/simple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/proDetail1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/proDetails.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/reg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/scripts/jquery-1.6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/scripts/jquery.jqzoom-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/styles/jquery.jqzoom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/styles/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/doAction.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/doAction1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/doAction2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/doAction3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/image_220/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/image_350/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/image_50/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/image_800/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/resizeImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/resizeImage1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/resizeImage2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/upload.func.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/upload1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/upload2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/0cfa5343838ca730c0f662be0d255c77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/392c141993263e9d4afcc5bf46bd1370.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/3a6d6e5f0f5401f057428d0a68cebd84.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/4e5409c36994a93f4eefb60f55e8d155.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/5a9e0ce59df2a56dbb99d0b4df34c515.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/6bef92d1538819851a78c6e1108fc3aa.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/6e52aa76dd94f1af4fa51a32b44eccd9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/805763ee13699341b66a4c484643f955.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/8536217a3073eca51b9440e7ff857055.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/9aacfebdd46397b4ad3e3b24fb987e4b.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/b226b253bed7b816fa401c0215071c92.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/b383d40135e5d23930acf13a5290009a.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/b4a8bc9b7057a5877e1fcc882653df9e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/d43d79a8deb349ff38aa7c79d59a2efe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/ec75f2668884ed4dfafbb40da5868ad4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/image_220/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/image_350/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/image_50/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/uploads/image_800/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/waterPic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/test/waterText.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/uploads/45306f3e9e4674362731545a86b2261e.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/uploads/af423aeab90796e3c1cd994b6c464e09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/uploads/c794aed26d04790517233c1d2c99c4d5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/uploads/ce92c236763184aa42abf575df39b9d1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/ad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/banner/banner_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/banner/banner_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/banner/banner_sm_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/banner/banner_sm_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/des_big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/des_sm.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/des_sm2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/aLink_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/buy_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/car.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/collection.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/des_input_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/des_title.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/des_title_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/down.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/hg_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/hot.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/icon_cart_prompt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/login_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/plus_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/red_link.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/shaoIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/shopIcon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/shop_sj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/sj.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/sj_blue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/sj_grey.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/user_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/icon/xing.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/pad.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/sh_btn.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/shopImg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/shopping_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/step.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/userhead.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/images/webLogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/js/DD_belatedPNG_0.0.8a-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/js/ie6Fixpng.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/js/说明.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/style/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/style/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/产品分类.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/商品介绍.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/注册.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/登陆.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/前台/购物车.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/img/icon/e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/img/icon/i.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/img/icon/j.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/img/icon/n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/img/icon/t.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/img/logo_index.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/后台/style/backstage.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/电商后台需求分析文档/data1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/电商后台需求分析文档/慕课网-电子商务系统数据词典.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/素材和成品/电商后台需求分析文档/慕课网-电子商务系统需求分析.doc" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/fonts/SIMYOU.TTF" afterPath="$PROJECT_DIR$/template/fonts/SIMYOU.TTF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/addAdmin.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/addAdmin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/addCate.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/addCate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/addPro.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/addPro.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/addUser.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/addUser.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/doAdminAction.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/doAdminAction.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/doLogin.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/doLogin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/editAdmin.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/editAdmin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/editCate.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/editCate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/editPro.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/editPro.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/editUser.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/editUser.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/getVerify.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/getVerify.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/attach.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/attach.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/delete.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/delete.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/e.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/e.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/i.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/i.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/icon.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/j.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/j.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/login_btn.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/login_btn.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/n.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/n.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/red_link.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/red_link.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/t.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/t.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/icon/user_icon.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/user_icon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/logo.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/logo_index.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/logo_index.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/images/webLogo.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/webLogo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/index.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/listAdmin.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/listAdmin.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/listCate.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/listCate.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/listPro.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/listPro.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/listPro1.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/listPro1.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/listProImages.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/listProImages.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/listUser.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/listUser.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/login.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/login.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/main.php" afterPath="$PROJECT_DIR$/template/shopImooc/admin/main.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-1.6.4.js" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-1.6.4.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/animated-overlay.gif" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/animated-overlay.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_222222_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_228ef1_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ef8c08_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffd27a_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/images/ui-icons_ffffff_256x240.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.css" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/css/ui-lightness/jquery-ui-1.10.4.custom.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/js/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/js/jquery-1.10.2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.js" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.min.js" afterPath="$PROJECT_DIR$/template/shopImooc/admin/scripts/jquery-ui/js/jquery-ui-1.10.4.custom.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/styles/backstage.css" afterPath="$PROJECT_DIR$/template/shopImooc/admin/styles/backstage.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/styles/global.css" afterPath="$PROJECT_DIR$/template/shopImooc/admin/styles/global.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/styles/main.css" afterPath="$PROJECT_DIR$/template/shopImooc/admin/styles/main.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/styles/reset.css" afterPath="$PROJECT_DIR$/template/shopImooc/admin/styles/reset.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/07861083c2e8e7d9f63bb8e0edb7cd20.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/07861083c2e8e7d9f63bb8e0edb7cd20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/0c14ca6ed080e92402c23d35af96556d.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/0c14ca6ed080e92402c23d35af96556d.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/0c685612472ff1add958ba3048633025.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/0c685612472ff1add958ba3048633025.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/1881bb9f44bd1bbad25a9085b1aaa3d5.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/1881bb9f44bd1bbad25a9085b1aaa3d5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/407865ba90f0df80822f6a1900f4c7d1.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/407865ba90f0df80822f6a1900f4c7d1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/40c194c5adf567527071d675b48baeb9.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/40c194c5adf567527071d675b48baeb9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/49659aecbb2aa7e99cd59cac8ea2a8a5.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/49659aecbb2aa7e99cd59cac8ea2a8a5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/49e5fbfbfbb74fe237988c18f8c37585.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/49e5fbfbfbb74fe237988c18f8c37585.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/511736465de28bc9d6fc730238d53c34.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/511736465de28bc9d6fc730238d53c34.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/5677a769720af6854e18e3c6d91f5bf3.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/5677a769720af6854e18e3c6d91f5bf3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/5b7930a28c1bbf9fca0463bcea1f1b56.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/5b7930a28c1bbf9fca0463bcea1f1b56.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/5e7852468c96b4cb0763e5f47991f351.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/5e7852468c96b4cb0763e5f47991f351.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/6fe87551772f79fb88ed1ca16b77d2c3.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/6fe87551772f79fb88ed1ca16b77d2c3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/7148d9fb2125ae1d117bc48e917b6d13.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/7148d9fb2125ae1d117bc48e917b6d13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/75a9f473e7b087dcc25770d8f58d0370.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/75a9f473e7b087dcc25770d8f58d0370.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/78e21378d2a43de2cf4a0dacfb0de6a1.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/78e21378d2a43de2cf4a0dacfb0de6a1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/7ec55f75f39e03ee8546a3ec1ab43f83.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/7ec55f75f39e03ee8546a3ec1ab43f83.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/9a77eb963b97a8c20163f656f6e52c7b.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/9a77eb963b97a8c20163f656f6e52c7b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/9b9143ba02c8d432fae6276dd33bd499.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/9b9143ba02c8d432fae6276dd33bd499.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/ab9808c175b70c9ccbb16305584c6110.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/ab9808c175b70c9ccbb16305584c6110.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/ad643c1df5effa36c559c8548d55f3ee.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/ad643c1df5effa36c559c8548d55f3ee.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/bf4dddfbbd8fe3c5b87c2453a983ce5e.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/bf4dddfbbd8fe3c5b87c2453a983ce5e.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/c1c9c2607fbc4b9ccf3a73d07f953680.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/c1c9c2607fbc4b9ccf3a73d07f953680.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/c32cd29977b460f8bcbb45b8286de347.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/c32cd29977b460f8bcbb45b8286de347.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/d70ad5fc301a19c0ddf8d6e82d3e24e7.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/d70ad5fc301a19c0ddf8d6e82d3e24e7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/d8afc7db49cf96357c5dd587d12336d8.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/d8afc7db49cf96357c5dd587d12336d8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/d8b335e57c1a754c92e0d971cb6016c7.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/d8b335e57c1a754c92e0d971cb6016c7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/ed50987c9544d26772f56b36de636acf.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/ed50987c9544d26772f56b36de636acf.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/ee5d87a7d6a3bd0eb4febd39485d5987.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/ee5d87a7d6a3bd0eb4febd39485d5987.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/f2b60ce8bb961e5f171e23d03ba8dd87.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/f2b60ce8bb961e5f171e23d03ba8dd87.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/f6339c7b3eec18dd2526ff26008bd56b.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/f6339c7b3eec18dd2526ff26008bd56b.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/admin/uploads/f8d506bb6488955e77ad661caf049374.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/uploads/f8d506bb6488955e77ad661caf049374.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/configs/configs.php" afterPath="$PROJECT_DIR$/template/shopImooc/configs/configs.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/core/admin.inc.php" afterPath="$PROJECT_DIR$/template/shopImooc/core/admin.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/core/album.inc.php" afterPath="$PROJECT_DIR$/template/shopImooc/core/album.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/core/cate.inc.php" afterPath="$PROJECT_DIR$/template/shopImooc/core/cate.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/core/pro.inc.php" afterPath="$PROJECT_DIR$/template/shopImooc/core/pro.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/core/test.php" afterPath="$PROJECT_DIR$/template/shopImooc/core/test.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/core/user.inc.php" afterPath="$PROJECT_DIR$/template/shopImooc/core/user.inc.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/data/imooc.sql" afterPath="$PROJECT_DIR$/template/shopImooc/data/imooc.sql" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/doAction.php" afterPath="$PROJECT_DIR$/template/shopImooc/doAction.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/ad.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/ad.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/banner/banner_01.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/banner/banner_01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/banner/banner_02.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/banner/banner_02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/banner/banner_sm_01.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/banner/banner_sm_01.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/banner/banner_sm_02.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/banner/banner_sm_02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/des_big.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/des_big.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/des_sm.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/des_sm.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/des_sm2.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/des_sm2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/aLink_bg.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/aLink_bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/buy_btn.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/buy_btn.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/car.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/car.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/collection.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/collection.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/des_input_bg.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/des_input_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/des_title.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/des_title.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/des_title_icon.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/des_title_icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/down.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/down.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/down.png" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/down.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/e.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/e.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/hg_icon.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/hg_icon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/hot.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/hot.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/i.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/i.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/icon.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/icon_cart_prompt.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/icon_cart_prompt.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/j.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/j.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/login_btn.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/login_btn.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/n.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/n.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/plus_bg.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/plus_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/red_link.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/red_link.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/shaoIcon.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/shaoIcon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/shopIcon.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/shopIcon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/shop_sj.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/shop_sj.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/sj.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/sj.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/sj_blue.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/sj_blue.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/sj_grey.gif" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/sj_grey.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/t.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/t.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/user_icon.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/icon/user_icon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/icon/xing.gif" afterPath="$PROJECT_DIR$/template/shopImooc/images/icon/xing.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/logo.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/logo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/logo_index.png" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/logo_index.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/pad.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/pad.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/reg.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/reg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/sh_btn.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/sh_btn.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/shopImg.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/shopImg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/shopping_bg.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/shopping_bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/step.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/step.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/userhead.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/images/userhead.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/images/webLogo.jpg" afterPath="$PROJECT_DIR$/template/shopImooc/admin/images/webLogo.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/include.php" afterPath="$PROJECT_DIR$/template/shopImooc/include.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/index.php" afterPath="$PROJECT_DIR$/template/shopImooc/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/index1.php" afterPath="$PROJECT_DIR$/template/shopImooc/index1.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/js/DD_belatedPNG_0.0.8a-min.js" afterPath="$PROJECT_DIR$/template/shopImooc/js/DD_belatedPNG_0.0.8a-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/js/ie6Fixpng.js" afterPath="$PROJECT_DIR$/template/shopImooc/js/ie6Fixpng.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/js/说明.txt" afterPath="$PROJECT_DIR$/template/shopImooc/js/说明.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/lib/common.func.php" afterPath="$PROJECT_DIR$/template/shopImooc/lib/common.func.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/lib/image.func.php" afterPath="$PROJECT_DIR$/template/shopImooc/lib/image.func.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/lib/mysql.func.php" afterPath="$PROJECT_DIR$/template/shopImooc/lib/mysql.func.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/lib/page.func.php" afterPath="$PROJECT_DIR$/template/shopImooc/lib/page.func.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/lib/string.func.php" afterPath="$PROJECT_DIR$/template/shopImooc/lib/string.func.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/lib/upload.func.php" afterPath="$PROJECT_DIR$/template/shopImooc/lib/upload.func.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/login.php" afterPath="$PROJECT_DIR$/template/shopImooc/login.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/kindeditor-all-min.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/kindeditor-all-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/kindeditor-all.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/kindeditor-all.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/kindeditor-min.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/kindeditor-min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/kindeditor.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/kindeditor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/lang/ar.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/lang/ar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/lang/en.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/lang/en.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/lang/ko.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/lang/ko.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/lang/zh_CN.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/lang/zh_CN.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/lang/zh_TW.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/lang/zh_TW.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/license.txt" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/license.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/php/JSON.php" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/php/JSON.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/php/demo.php" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/php/demo.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/php/file_manager_json.php" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/php/file_manager_json.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/php/upload_json.php" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/php/upload_json.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/anchor/anchor.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/anchor/anchor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/autoheight/autoheight.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/autoheight/autoheight.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/baidumap/baidumap.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/baidumap/baidumap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/baidumap/index.html" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/baidumap/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/baidumap/map.html" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/baidumap/map.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/clearhtml/clearhtml.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/clearhtml/clearhtml.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/code/code.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/code/code.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/code/prettify.css" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/code/prettify.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/code/prettify.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/code/prettify.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/emoticons.js" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/emoticons.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/0.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/0.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/1.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/1.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/10.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/10.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/100.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/100.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/101.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/101.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/102.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/102.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/103.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/103.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/104.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/104.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/105.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/105.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/106.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/106.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/107.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/107.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/108.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/108.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/109.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/109.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/11.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/11.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/110.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/110.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/111.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/111.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/112.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/112.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/113.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/113.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/114.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/114.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/115.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/115.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/116.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/116.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/117.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/117.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/118.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/118.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/119.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/119.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/12.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/12.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/120.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/120.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/121.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/121.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/122.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/122.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/123.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/123.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/124.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/124.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/125.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/125.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/126.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/126.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/127.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/127.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/128.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/128.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/129.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/129.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/13.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/13.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/130.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/130.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/131.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/131.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/132.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/132.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/133.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/133.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/134.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/134.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/14.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/14.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/15.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/15.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/16.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/16.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/17.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/17.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/18.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/18.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/19.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/19.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/2.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/20.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/20.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/21.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/21.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/22.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/22.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/23.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/23.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/24.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/24.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/25.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/25.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/26.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/26.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/27.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/27.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/28.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/28.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/29.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/29.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/3.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/3.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/30.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/30.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/31.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/31.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/32.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/32.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/33.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/33.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/34.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/34.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/35.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/35.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/36.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/36.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/37.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/37.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/38.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/38.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/39.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/39.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/4.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/4.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/40.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/40.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/41.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/41.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/素材和成品/shopImooc/plugins/kindeditor/plugins/emoticons/images/42.gif" afterPath="$PROJECT_DIR$/template/shopImooc/plugins/kindeditor/plugins/emoticons/images/42.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop/data/shopImooc.sql" afterPath="$PROJECT_DIR$/shop/data/shopImooc.sql" />
     </list>
     <ignored path="eCommence.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -522,36 +745,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="shopImooc.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <file leaf-file-name="image.func.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shop/lib/image.func.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="47" column="33" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop/test.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
-              <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.imooc_admin" pinned="false" current-in-tab="true">
-        <entry file="dbDummy://dbtable:/c0532324/0bf361a1-9865-4a86-b7a9-a0f1d985ab27/test.imooc_admin">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
-            </state>
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.19723183">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -566,8 +764,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/shop/data/shop.sql" />
-        <option value="$PROJECT_DIR$/shop/data/shopImooc.sql" />
         <option value="$PROJECT_DIR$/shop/test.php" />
+        <option value="$PROJECT_DIR$/shop/data/shopImooc.sql" />
+        <option value="$PROJECT_DIR$/素材和成品/shopImooc/admin/login.php" />
+        <option value="$PROJECT_DIR$/shop/lib/image.func.php" />
       </list>
     </option>
   </component>
@@ -589,6 +789,41 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -615,6 +850,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches">
         <subPane>
           <PATH>
@@ -665,16 +901,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eCommence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="eCommence" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/xampp/php/php.ini" />
-    <property name="settings.editor.selected.configurable" value="database.sql.templating" />
+    <property name="last_opened_file_path" value="E:/xampp/php" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -721,19 +975,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23603794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23603794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16227607" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34245077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32286024" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -759,13 +1013,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/shop/test.php">
+    <entry file="file://$PROJECT_DIR$/shop/lib/image.func.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="false" />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +1025,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -781,9 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -791,7 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,7 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,14 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/素材和成品/shopImooc/data/imooc.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -846,7 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,7 +1123,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,7 +1130,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -870,14 +1137,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/素材和成品/shopImooc/data/imooc.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.018538713">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -891,15 +1150,63 @@
     <entry file="file://$PROJECT_DIR$/shop/data/shopImooc.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="33" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="33" />
-          <folding />
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/shopImooc/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop/test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="9" column="128" selection-start-line="9" selection-start-column="128" selection-end-line="9" selection-end-column="128" />
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/lib/string.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/lib/mysql.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/lib/upload.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/lib/page.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/lib/common.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop/lib/image.func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19723183">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>

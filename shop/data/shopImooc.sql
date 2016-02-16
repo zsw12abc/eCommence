@@ -39,7 +39,7 @@ CREATE TABLE 'imooc_user' (
   'id'       INT UNSIGNED                  AUTO_INCREMENT KEY,
   'username' VARCHAR(20)          NOT NULL UNIQUE,
   'password' CHAR(32)             NOT NULL,
-  'sex'      ENUM("男", "女", "保密") NOT NULL DEFAULT "保密",
+  'sex'      ENUM('男', '女', '保密') NOT NULL DEFAULT '保密',
   'face'     VARCHAR(50)          NOT NULL,
   'regTime'  INT UNSIGNED         NOT NULL
 );
