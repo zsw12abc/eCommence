@@ -1,4 +1,4 @@
-<?php 
+<?php
 require_once 'string.func.php';
 //通过GD库做验证码
 function verifyImage($type=1,$length=4,$pixel=0,$line=0,$sess_name = "verify"){
